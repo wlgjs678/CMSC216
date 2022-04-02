@@ -1,4 +1,4 @@
 # CMSC216
 This repository contains projects done with CMSC216.
 
-DO NOT MODIFY OR COPY CODE PUBLISHED IN THIS REPOSITORY.
+Please do NOT modify or copy code published in this repository.
